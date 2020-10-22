@@ -7,3 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+Instalar PHP dependencias:
+
+composer install
+
+<------------------------------------------>
+
+copiar e configurar o arquivo .env:
+
+cp .env.example .env
+
+<------------------------------------------>
+
+Iniciar o servidor:
+php artisan serve
