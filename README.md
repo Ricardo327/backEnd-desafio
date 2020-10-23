@@ -10,15 +10,18 @@
 
 Instalar PHP dependencias:
 
+
+```sh
 composer install
+```
 
-<------------------------------------------>
+Copiar e configurar o arquivo .env:
 
-copiar e configurar o arquivo .env:
-
+```sh
 cp .env.example .env
-
-<------------------------------------------>
+```
 
 Iniciar o servidor:
+```sh
 php artisan serve
+```
