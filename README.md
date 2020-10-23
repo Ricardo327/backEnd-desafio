@@ -7,9 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Instalação
+
+Clone the repo locally:
+
+```sh
+git clone https://github.com/Ricardo327/backEnd-desafio.git
+cd backEnd-desafio
+```
 
 Instalar PHP dependencias:
-
 
 ```sh
 composer install
